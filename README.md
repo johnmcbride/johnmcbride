@@ -43,6 +43,7 @@ Seasoned pragmatic full stack software engineer and technologist with a passion 
 
 #
 
+## :clapper: My YouTube Videos
 <!-- BEGIN YOUTUBE-CARDS -->
 [![Citrix Developer Extension Update to include script feeds](https://ytcards.demolab.com/?id=DZ4CcWIyT-Y&title=Citrix+Developer+Extension+Update+to+include+script+feeds&lang=en&timestamp=1529683376&background_color=%230d1117&title_color=%23ffffff&stats_color=%23dedede&width=250 "Citrix Developer Extension Update to include script feeds")](https://www.youtube.com/watch?v=DZ4CcWIyT-Y)
 [![Citrix Developer Extension for VSCode - Enabling User Scripts](https://ytcards.demolab.com/?id=pdt1uFV-kpE&title=Citrix+Developer+Extension+for+VSCode+-+Enabling+User+Scripts&lang=en&timestamp=1528473450&background_color=%230d1117&title_color=%23ffffff&stats_color=%23dedede&width=250 "Citrix Developer Extension for VSCode - Enabling User Scripts")](https://www.youtube.com/watch?v=pdt1uFV-kpE)
@@ -51,3 +52,11 @@ Seasoned pragmatic full stack software engineer and technologist with a passion 
 [![How to install Netscaler CPX on Docker for Windows](https://ytcards.demolab.com/?id=nq77i4h1VAo&title=How+to+install+Netscaler+CPX+on+Docker+for+Windows&lang=en&timestamp=1483748461&background_color=%230d1117&title_color=%23ffffff&stats_color=%23dedede&width=250 "How to install Netscaler CPX on Docker for Windows")](https://www.youtube.com/watch?v=nq77i4h1VAo)
 [![How to install Netscaler CPX on Docker for Mac](https://ytcards.demolab.com/?id=FPlCoUeF4VE&title=How+to+install+Netscaler+CPX+on+Docker+for+Mac&lang=en&timestamp=1483745773&background_color=%230d1117&title_color=%23ffffff&stats_color=%23dedede&width=250 "How to install Netscaler CPX on Docker for Mac")](https://www.youtube.com/watch?v=FPlCoUeF4VE)
 <!-- END YOUTUBE-CARDS -->
+
+#
+
+<details>
+ <summary><h3>:man_technologist: About me and my journey</h3></summary>
+ I am a software engineer and technoligist that focuses on being pragmatic and building end to end systems. I've been developing software for 25+ years ranging from working in healthcare IT to working for major tech companies. I have also have experience with system administration, believing that the more you know about the entire system, the better solutions you can build as a developer. I consider myself a polyglot developer and able to jump around from technology to development language to bring a solution to market.
+
+[youtube]: https://youtube.com/johnmcbridedev
